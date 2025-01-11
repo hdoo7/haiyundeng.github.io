@@ -18,8 +18,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## About Me  
+**Haiyun Deng, Ph.D.**  
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Haiyun Deng is a dedicated researcher, software engineer, and educator with a passion for advancing the field of computer science. Currently pursuing a Ph.D. in Computer Science at Florida International University, Haiyun has maintained a stellar academic record, graduating with a perfect 4.0 GPA in both undergraduate and graduate studies. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Haiyun's research focuses on critical areas like Android device security, blockchain resilience, and privacy vulnerabilities in mHealth applications. Their work has been featured in leading conferences and journals, including submissions to IEEE and USENIX. Notable contributions include developing advanced models for phishing detection and proposing adaptive solutions for securing decentralized financial platforms.
+
+With a strong technical foundation in Python, C, and Java, as well as hands-on expertise in frameworks like TensorFlow, PyTorch, and Spring, Haiyun has excelled in both academic and industrial settings. During a software engineering internship at American Express, Haiyun enhanced API reliability and maintainability, demonstrating a knack for creating scalable and efficient solutions.
+
+As a Graduate Research Assistant and Teaching Assistant, Haiyun has combined technical acumen with a commitment to mentorship. They've developed course materials, led lab sessions, and provided personalized guidance to students in courses such as IoT Security, Network Security, and Computer Architecture.
+
+Haiyun's dedication to fostering innovation has been recognized through accolades like the Outstanding Bachelor of Science Graduate Award and the Microsoft Cybersecurity Scholarship. Whether analyzing data to uncover security vulnerabilities or building models to protect digital ecosystems, Haiyun is driven by a mission to enhance security, privacy, and technological resilience across industries.
+
+## Let’s Connect  
+I am eager to collaborate on innovative projects and make a difference in the tech community. Feel free to explore my projects on [GitHub](https://github.com/hdoo7) or connect with me on [LinkedIn](https://linkedin.com/in/haiyun-deng).
