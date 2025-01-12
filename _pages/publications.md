@@ -22,7 +22,7 @@ nav_order: 2
         <li style="margin-bottom: 20px;">
             <strong>Haiyun Deng, Abbas Acar, Güliz Seray Tuncay, Selcuk Uluagac</strong>, 
             <em>"Mind the Gap: Uncovering Privacy Pitfalls in mHealth Apps"</em>, 
-            <span style="font-style: italic; color: gray;">to be submitted to 34th USENIX Security Symposium, January 2025</span>
+            <span style="font-style: italic; color: gray;">submitted to 34th USENIX Security Symposium, January 2025</span>
         </li>
 
         <li style="margin-bottom: 20px;">
