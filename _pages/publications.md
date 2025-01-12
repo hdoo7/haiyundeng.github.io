@@ -11,7 +11,6 @@ nav_order: 2
 <!-- Bibsearch Feature -->
 
 <div class="publications">
-    <h2>Recent Publications</h2>
 
     <ul style="list-style-type: none; padding: 0;">
         <li style="margin-bottom: 20px;">
