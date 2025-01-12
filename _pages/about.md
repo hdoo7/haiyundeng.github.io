@@ -9,9 +9,15 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Cyber-Physical Systems Security Lab (CSL)</p>
-    <p>Knight Foundation School of Computing and Information Sciences</p>
-    <p>Florida International University, Miami, Florida, USA</p>
+    <p style="font-family: 'Arial', sans-serif; font-size: 14px; font-weight: bold; color: #333;">
+      Cyber-Physical Systems Security Lab (CSL)
+    </p>
+    <p style="font-family: 'Verdana', sans-serif; font-size: 13px; font-style: italic; color: #555;">
+      Knight Foundation School of Computing and Information Sciences
+    </p>
+    <p style="font-family: 'Georgia', serif; font-size: 12px; color: #777;">
+      Florida International University, Miami, Florida, USA
+    </p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
