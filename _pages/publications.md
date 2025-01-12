@@ -11,10 +11,14 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-{% include bib_search.liquid %}
-
 <div class="publications">
 
-<!-- {% bibliography %} -->
+    <h2>Publications</h2>
+    <ul>
+        <li>Haiyun Deng, Yassine Mekdad, Sevval Erkurt, and Selcuk Uluagac, ``PhishProX: Proactive Phishing Defense with Feature Learning,'' submitted to 2025 IEEE International Conference on Communications (ICC): Communication and Information System Security Symposium, November 2024</li>
+        <li>Haiyun Deng, Guliz Seray Tuncay, Abbas Acar, Esteban Luques, Harun Oz, Ahmet Aris, and Selcuk Uluagac, ``Unveiling the Android Security Update Landscape,'' submitted to IEEE Transactions on Dependable and Secure Computing, November 2024</li>
+        <li>Haiyun Deng, Abdulhadi Sahin, Kemal Akkaya, and Selcuk Uluagac, ``Strength in Numbers: Enhancing DEX Resilience with T2EMA Against Price Attacks'' submitted to IEEE International Conference on Blockchain and Cryptocurrency, December 2024</li>
+        <li>Haiyun Deng, Abbas Acar, Güliz Seray Tuncay, Selcuk Uluagac, ``Mind the Gap: Uncovering Privacy Pitfalls in mHealth Apps,'' to be submitted to 34th USENIX Security Symposium, January 2025</li>
+    </ul>
 
 </div>
