@@ -1,7 +1,8 @@
+---
 layout: page
 permalink: /teaching/
-title: Teaching Assistant Experience
-description: A summary of courses I have supported as a Teaching Assistant at Florida International University.
+title: teaching
+description: Courses I have supported as a Teaching Assistant at Florida International University.
 nav: true
 nav_order: 6
 ---
@@ -23,4 +24,3 @@ As a Graduate Teaching Assistant in the Computer Science department at Florida I
 - **Grading and Feedback**: Graded assignments, exams, and projects, ensuring timely and constructive feedback to support student growth.
 
 I strive to create an engaging and supportive learning environment by combining clarity, flexibility, and real-world problem-solving applications to enhance students' academic experiences.
-
