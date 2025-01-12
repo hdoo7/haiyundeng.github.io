@@ -13,7 +13,6 @@ nav_order: 2
 
 <div class="publications">
 
-    <h2>Publications</h2>
     <ul>
         <li>Haiyun Deng, Yassine Mekdad, Sevval Erkurt, and Selcuk Uluagac, ``PhishProX: Proactive Phishing Defense with Feature Learning,'' submitted to 2025 IEEE International Conference on Communications (ICC): Communication and Information System Security Symposium, November 2024</li>
         <li>Haiyun Deng, Guliz Seray Tuncay, Abbas Acar, Esteban Luques, Harun Oz, Ahmet Aris, and Selcuk Uluagac, ``Unveiling the Android Security Update Landscape,'' submitted to IEEE Transactions on Dependable and Secure Computing, November 2024</li>
