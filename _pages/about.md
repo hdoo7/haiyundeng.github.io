@@ -15,7 +15,7 @@ profile:
     <p style="font-family: 'Verdana', sans-serif; font-size: 13px; font-style: italic; color: #555;">
       Knight Foundation School of Computing and Information Sciences
     </p>
-    <p style="font-family: 'Georgia', serif; font-size: 12px; color: #777;">
+    <p font-size: 12px; color: #777;">
       Florida International University, Miami, FL, USA
     </p>
 

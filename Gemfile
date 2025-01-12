@@ -14,12 +14,9 @@ group :jekyll_plugins do
     gem 'jekyll-minifier'
     gem 'jekyll-paginate-v2'
     gem 'jekyll-regex-replace'
-    
-    gem "github-pages", "~> 228", group: :jekyll_plugins
-    gem "jekyll-scholar", "~> 6.0.0"
-    gem "jekyll-tabs", "~> 0.4.0"
-
+    gem 'jekyll-scholar'
     gem 'jekyll-sitemap'
+    gem 'jekyll-tabs'
     gem 'jekyll-terser', :git => "https://github.com/RobertoJBeltran/jekyll-terser.git"
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
