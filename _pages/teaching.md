@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses I have taught and supported as a Teaching Assistant at Florida International University.
+description: As a Graduate Teaching Assistant at Florida International University, I have contributed to student learning and success in Computer Science courses.
 nav: true
 nav_order: 6
 ---
