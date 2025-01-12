@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Florida International University</a>. 11200 SW 8th St, Miami, FL 33199
 
 profile:
   align: right
