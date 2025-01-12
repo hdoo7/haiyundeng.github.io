@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - hdoo7
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - hdoo7/mhealth_apps
+  - hdoo7/android_security
+  - hdoo7/VitalSIA
+
+
