@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Haiyun Deng",
-    "label": "Ph.D. Candidate in Computer Science",
+    "label": "Ph.D. in Computer Science",
     "image": "",
     "email": "hdeng007@fiu.edu",
     "phone": "786-932-8826",
     "url": "https://github.com/hdoo7",
-    "summary": "A Ph.D. candidate in Computer Science at Florida International University, specializing in cybersecurity, machine learning, and blockchain technology.",
+    "summary": "A Ph.D. student in Computer Science at Florida International University, specializing in cybersecurity, machine learning, and blockchain technology.",
     "location": {
       "address": "10555 West Flagler Street",
       "postalCode": "33174",
@@ -105,7 +105,8 @@
       "keywords": [
         "Python",
         "C",
-        "Java/JS",
+        "Java",
+        "JavaScript",
         "Solidity",
         "SQL"
       ]
